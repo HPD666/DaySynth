@@ -1,5 +1,7 @@
 (Still developing)
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=HPD666.DaySynth)
+
 DaySynth
 
 🎹 DaySynth – Your AI Synthesized Daily Brief
